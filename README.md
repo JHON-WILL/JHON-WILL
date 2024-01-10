@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JHON-WILL
+- 👋 Hi, I’m Jonathan
 - 👀 I'm interested in developing myself professionally and helping in any way I can
 - 🌱 I’m currently learning Python and Java
 - 💞️ I'm looking to collaborate in any way I can
