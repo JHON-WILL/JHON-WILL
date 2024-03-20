@@ -22,5 +22,5 @@ Gosto de animes, séries, filmes, jogos e cultura geek em geral
 
 [![Outlook](https://img.shields.io/badge/-Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](willian_jonatha@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](jonathanwillianoliveiramello@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JOHN-WILL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-willi)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fFFWttcG)
