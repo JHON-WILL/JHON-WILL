@@ -9,6 +9,7 @@ Sou estudante de Ciêcias da computação pela Anhanguera Educacional. Estou dan
 ## Aprendizado
 ![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-095?style=for-the-badge&logo=markdown)
