@@ -16,7 +16,7 @@ Sou estudante de Ciêcias da computação pela Anhanguera Educacional. Estou dan
 
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHON-WILL&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhon-will&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## Hobbies
