@@ -8,10 +8,14 @@ Sou estudante de Ciêcias da computação pela Anhanguera Educacional. Estou dan
 
 ## Aprendizado
 ![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-095?style=for-the-badge&logo=markdown)
+
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHON-WILL&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## Hobbies
